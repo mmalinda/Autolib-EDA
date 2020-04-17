@@ -1,4 +1,4 @@
-# DS-Prep
+# Autolib EDA
 #### Independent project work, November 2019
 #### By **mmalinda**
 ## Description
